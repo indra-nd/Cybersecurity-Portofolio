@@ -16,7 +16,7 @@ An SQL Injection vulnerability was identified in the authentication mechanism of
 
 ## Tools
 
-- Web Browser (Mozilla Firefox)
+- Chromium
 - OWASP Juice Shop
 
 ---

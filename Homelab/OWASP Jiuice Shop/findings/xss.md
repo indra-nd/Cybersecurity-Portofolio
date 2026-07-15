@@ -16,7 +16,7 @@ A reflected Cross-Site Scripting (XSS) vulnerability was identified in the searc
 
 ## Tools
 
-- Web Browser (Mozilla Firefox)
+- Chromium
 - OWASP Juice Shop
 
 ---

@@ -18,7 +18,7 @@ An Insecure Direct Object Reference (IDOR) vulnerability was identified in the b
 ## Tools
 
 - Burp Suite Community Edition
-- Mozilla Firefox
+- Chromium
 
 ---
 
