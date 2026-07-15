@@ -30,10 +30,10 @@ The objective of this project was to practice web application penetration testin
 
 | Component | Description |
 |-----------|-------------|
-| Host OS | Windows 11 |
+| Host OS | Windows 10 |
 | Target | OWASP Juice Shop |
 | Deployment | Docker |
-| Browser | Mozilla Firefox |
+| Browser | Chromium |
 | Proxy | Burp Suite Community Edition |
 
 ---
@@ -55,7 +55,7 @@ The assessment followed the workflow below:
 | Vulnerability | Severity | Report |
 |---------------|----------|--------|
 | Authentication Bypass via SQL Injection | High | [sql-injection.md](findings/sql-injection.md) |
-| Reflected Cross-Site Scripting (XSS) | Medium | [reflected-xss.md](findings/reflected-xss.md) |
+| Reflected Cross-Site Scripting (XSS) | Medium | [reflected-xss.md](findings/xss.md) |
 | Insecure Direct Object Reference (IDOR) | High | [idor.md](findings/idor.md) |
 
 ---
@@ -75,7 +75,7 @@ The assessment followed the workflow below:
 The complete assessment report is available in:
 
 ```
-reports/OWASP-Juice-Shop-Security-Assessment.pdf
+reports/report.pdf
 ```
 
 ---
